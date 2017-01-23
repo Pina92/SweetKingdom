@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <user>
+    <login>Paulina</login>
+    <statics>10</statics>
+  </user>
+  <user>
+    <login>Amelia</login>
+    <statics>5</statics>
+  </user>
+  <user>
+    <login>Pipi</login>
+    <statics>0</statics>
+  </user>
+</save>
